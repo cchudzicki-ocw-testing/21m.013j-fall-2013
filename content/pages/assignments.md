@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the three essay assignments for the course, formatting
+  guidelines, and a note on plagiarism.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
